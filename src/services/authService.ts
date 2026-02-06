@@ -3,10 +3,10 @@ import axios from "axios";
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL + "/api/auth";
 
 // Type for the login request
-interface LoginRequest {
-  email: string;
-  password: string;
-}
+// interface LoginRequest {
+//   email: string;
+//   password: string;
+// }
 
 // Type for the user returned from backend
 export interface User {
