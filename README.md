@@ -1,1 +1,0 @@
-# clinic-admin-dashboard
