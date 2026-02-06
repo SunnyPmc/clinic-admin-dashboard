@@ -53,7 +53,7 @@ export default function CreateTestimonial() {
 
   return (
     <div>
-      <PageMeta title="Create Testimonial | Admin Dashboard" />
+      <PageMeta title="Create Testimonial | Admin Dashboard" description="View and manage all blogs in the admin dashboard"/>
       <PageBreadcrumb pageTitle="Create Testimonial" />
 
       <div className="max-w-3xl rounded-2xl border border-gray-200 bg-white p-6 shadow-sm">

@@ -58,7 +58,7 @@ export default function CarouselImageTable() {
 
   return (
     <div>
-      <PageMeta title="Carousel Images | Admin Dashboard" />
+      <PageMeta title="Carousel Images | Admin Dashboard" description="View and manage all blogs in the admin dashboard" />
       <PageBreadcrumb pageTitle="Carousel Images" />
 
       <div className="overflow-hidden rounded-xl border border-gray-200 bg-white">

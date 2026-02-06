@@ -65,7 +65,7 @@ export default function CreateTestimonialImageSingle() {
 
   return (
     <div>
-      <PageMeta title="Upload Testimonial Image | Admin Dashboard" />
+      <PageMeta title="Upload Testimonial Image | Admin Dashboard" description="View and manage all blogs in the admin dashboard" />
       <PageBreadcrumb pageTitle="Upload Testimonial Image" />
 
       <div className="max-w-3xl rounded-2xl border border-gray-200 bg-white p-6 shadow-sm">

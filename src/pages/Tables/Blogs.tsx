@@ -60,7 +60,11 @@ export default function BlogTable() {
 
   return (
     <div>
-      <PageMeta title="Blogs Table | Admin Dashboard" />
+      {/* <PageMeta title="Blogs Table | Admin Dashboard" /> */}
+      <PageMeta
+  title="Blogs Table | Admin Dashboard"
+  description="View and manage all blogs in the admin dashboard"
+/>
       <PageBreadcrumb pageTitle="Blogs Table" />
 
       <div className="overflow-hidden rounded-xl border border-gray-200 bg-white dark:border-white/[0.05] dark:bg-white/[0.03]">

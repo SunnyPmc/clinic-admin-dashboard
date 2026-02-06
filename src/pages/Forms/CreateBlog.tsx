@@ -70,7 +70,7 @@ export default function CreateBlog() {
 
   return (
     <div>
-      <PageMeta title="Create Blog | Admin Dashboard" />
+      <PageMeta title="Create Blog | Admin Dashboard" description="View and manage all blogs in the admin dashboard"/>
       <PageBreadcrumb pageTitle="Create Blog" />
 
       <div className="max-w-3xl rounded-2xl border border-gray-200 bg-white p-6 shadow-sm">

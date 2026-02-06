@@ -126,7 +126,7 @@ const handleSubmit = async (e: FormEvent) => {
 
   return (
     <div>
-      <PageMeta title="Create Therapy Material | Admin Dashboard" />
+      <PageMeta title="Create Therapy Material | Admin Dashboard" description="View and manage all blogs in the admin dashboard"/>
       <PageBreadcrumb pageTitle="Create Therapy Material" />
 
       <div className="max-w-3xl rounded-2xl border border-gray-200 bg-white p-6 shadow-sm">
